@@ -1,0 +1,228 @@
+- 👋 Hi, I’m @titeuf04100
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Projet dérivé de "Projet : Blog"</title>
+        <style>
+            
+            h1{
+                text-align:center;
+            }
+            li{
+                font-family:fantasy;
+                
+            }
+            
+            h3{
+                font-family:cursive;
+                font-size:20px;
+                
+            }
+            p{
+                font-family:sans-serif;
+                font-size:20px;
+                
+            }
+            p{
+                color:red;
+            }
+            h1{
+                color:green;
+                font-family:fantasy;
+            }
+            h2{
+                text-align:center;
+            }
+            #cc{
+                color:red;
+            }
+            #gue{
+                color:purple;
+            }
+            body{
+                background-color:pink;
+            }
+            #chat{
+                background-color:purple;
+            }
+            h3{
+                text-align:center;
+            }
+            #pipi{
+                color:red;
+            }
+        
+            #sarah{
+                background-color:grey;
+            }
+            #ils{
+                font-family:fantasy;
+            }
+            #elles{
+                font-family:fantasy;
+            }
+            h1{
+                background-color:orange;
+            }
+            #kari{
+                background-color:orange;
+            }
+            #pipi{
+                color:purple;
+            }
+            td{
+                color:yellow;
+            }
+            th{
+                color:green;
+            }
+            #loup{
+                color:yellow;
+            }
+            #tronc{
+                background-color:brown;
+            }
+            #jtm{
+                color:orange;
+            }#jarive{
+                color:green;
+            }
+            #livre{
+                color:grey;
+            }
+            #livre{
+                font-family:cursive;
+            }
+            h2{
+                line-height:voyage en algerie;
+            }
+            #hammam{
+                color:green;
+            }
+            #bat{
+                color:yellow;
+            }
+            #bat{
+                font-family:fantasy;
+            }
+            #hammam{
+                font-family:fantasy;
+            }
+            
+        </style>
+        <a href="#carte d'identité">carte d'identité</a>
+        <a href="#billet d'avion">billet d'avion</a>
+        <a href="#hammam">les hammam</a>
+        <a href="#mosquer">mosque a visiter</a>
+        <a href="#gue">marcher a visiter</a>
+        <a href="#pipi">restaurant </a>
+    </head>
+    <body>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/TreeTall.png">
+        <h1>blogue</h1>
+         <h1>de voyage</h1>
+         
+         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
+         
+        <h3 id="chat">Contenue</h3>
+        <ul>
+            <li>premier poste!</li>
+        </ul>
+        
+        <h2 id="cc">voyage en algerie</h2>
+        <strong id="livre">voyage en algerie plus precisement dans la willaya de bordj bou arreridj.</strong>
+        <a href="https://www.youtube.com">
+        <h2 id="mosquer">mosque a visiter:</h2>
+        </a>
+        <ol>
+            <li id="jtm">mosque 5 juilllet</li>
+            <li id="jarive">mosquée 2 hectare
+        </ol>
+        <table>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>
+                </tr>
+            </thead>
+        </table>
+        
+        
+        <p id="loup">ces deux mosquée sont vraiment tres belle aller donc les visiter vous ne serez pas decu.<br>Avec leur achitecture spectaculaire et leur imam avec de magnifique voie vous en aurez les larme aux yeux</p>
+        <a href="https://www.youtube.com">
+        <ul>
+            <li>deuxiéme poste</li>
+        </ul>
+    <h2 id="gue">marcher a visiter</h2>  
+    </a>
+    <p id="tronc">le sougue est une marcher en plain aire ou on trouve tout se que lon desir tout est avendre a qui a les moyen de souffrir des chose.</p>
+    <table>
+        <thead>
+            <tr>
+                <th>document a prendre</th>
+                
+                
+            </tr>
+            <tr>
+                <td>passeport</td>
+                
+            </tr>
+            
+        </thead>
+        <thead>
+            <td id="carte d'identité">carte d'identité</td>
+             <td id="billet d'avion">billet d'avion</td>
+        </thead>
+        
+           
+        
+    </table>
+        
+        <p>attention ne venez pas sans vos document vous ne pourrez pas embarquer</p>
+        <a href="https://www.youtube.com">
+        
+    <h3 id="pipi">les restaurant</h3>
+    </a>
+    <table>
+        <thead>
+           <tr>
+               <th id="kari">hallal</th>
+               <th id="sarah">Pas hallal</th>
+           </tr>
+           <tr>
+               <td id="elles">restaurant des gwer de la chappel</td>
+              <br> <td id="ils">restaurant machoui</td>
+           </tr>
+        </thead>
+    </table>
+        <ul>
+            <li><a href="https://www.youtube.com">lien vers youtube</a></li>
+            <li><a href="https://www.amazon.fr">lien vers amazon</a></li>
+        </ul>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/background.png"height="200" width="550">
+        <img src="https://www.un.org/fr/conf/ocean/assets/img/featured-image-index.jpg">
+        <h2 id="bat">les plages</h2>
+        <p>ces simple ya pas de plage a bordj bou arreridj</p>
+        <a href="https://www.youtube.com">
+        <h2 id="hammam">les hammam</h2>
+        </a>
+        <p> les hammam sont tres nombreux a bordj bou arreridj il en existe plus d'une vingtaine .<br></p>
+        <p>il ne sont pas mixte </p>
+        <ul>
+            <li>prendre des serviete et produit d'hygiene</li>
+        </ul>
+      
+ 
+
+        
+    </body>
+</html>
+
+<!---
+titeuf04100/titeuf04100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
